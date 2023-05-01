@@ -1,0 +1,45 @@
+[submodule "glazed"]
+	path = glazed
+	url = git@github.com:go-go-golems/glazed
+[submodule "clay"]
+	path = clay
+	url = git@github.com:go-go-golems/clay
+[submodule "sqleton"]
+	path = sqleton
+	url = git@github.com:go-go-golems/sqleton
+[submodule "escuse-me"]
+	path = escuse-me
+	url = git@github.com:go-go-golems/escuse-me
+[submodule "parka"]
+	path = parka
+	url = git@github.com:go-go-golems/parka
+[submodule "geppetto"]
+	path = geppetto
+	url = git@github.com:go-go-golems/geppetto
+[submodule "cliopatra"]
+	path = cliopatra
+	url = git@github.com:go-go-golems/cliopatra
+[submodule "harkonnen"]
+	path = harkonnen
+	url = git@github.com:go-go-golems/harkonnen
+[submodule "biberon"]
+	path = biberon
+	url = git@github.com:go-go-golems/biberon
+[submodule "bucheron"]
+	path = bucheron
+	url = git@github.com:go-go-golems/bucheron
+[submodule "oak"]
+	path = oak
+	url = git@github.com:go-go-golems/oak
+[submodule "plunger"]
+	path = plunger
+	url = git@github.com:go-go-golems/plunger
+[submodule "ecrivain"]
+	path = ecrivain
+	url = git@github.com:go-go-golems/ecrivain
+[submodule "raza"]
+	path = raza
+	url = git@github.com:go-go-golems/raza
+[submodule "voyage"]
+	path = voyage
+	url = git@github.com:go-go-golems/voyage

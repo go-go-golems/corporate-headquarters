@@ -1,0 +1,19 @@
+go 1.20
+
+use (
+   
+./glazed
+./clay
+./sqleton
+./escuse-me
+./parka
+./geppetto
+./cliopatra
+./harkonnen
+./biberon
+./bucheron
+./oak
+./plunger
+./ecrivain
+./voyage
+)
