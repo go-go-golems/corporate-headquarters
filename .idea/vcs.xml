@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/biberon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bucheron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/clay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cliopatra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ecrivain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/escuse-me" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geppetto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/glazed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-ordered-map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/harkonnen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plunger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
+  </component>
+</project>
