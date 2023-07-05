@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="all tests" type="CompoundRunConfigurationType">
+    <toRun name="biberon" type="GoTestRunConfiguration" />
+    <toRun name="bucheron" type="GoTestRunConfiguration" />
+    <toRun name="clay" type="GoTestRunConfiguration" />
+    <toRun name="cliopatra" type="GoTestRunConfiguration" />
+    <toRun name="ecrivain" type="GoTestRunConfiguration" />
+    <toRun name="escuse-me" type="GoTestRunConfiguration" />
+    <toRun name="geppetto" type="GoTestRunConfiguration" />
+    <toRun name="glazed" type="GoTestRunConfiguration" />
+    <toRun name="harkonnen" type="GoTestRunConfiguration" />
+    <toRun name="oak" type="GoTestRunConfiguration" />
+    <toRun name="parka" type="GoTestRunConfiguration" />
+    <toRun name="plunger" type="GoTestRunConfiguration" />
+    <toRun name="sqleton" type="GoTestRunConfiguration" />
+    <method v="2" />
+  </configuration>
+</component>

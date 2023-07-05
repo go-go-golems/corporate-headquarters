@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sqleton serve --debug" type="GoApplicationRunConfiguration" factoryName="Go Application" folderName="sqleton">
+    <module name="corporate-headquarters" />
+    <working_directory value="$PROJECT_DIR$/sqleton" />
+    <parameters value="serve --content-dirs $PROJECT_DIR$/../../ttc/ttc/sql/sqleton --debug" />
+    <envs>
+      <env name="SQLETON_USE_DBT_PROFILES" value="1" />
+      <env name="SQLETON_DBT_PROFILE" value="ttc.analytics" />
+    </envs>
+    <kind value="PACKAGE" />
+    <package value="github.com/go-go-golems/sqleton/cmd/sqleton" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/sqleton/cmd/sqleton/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
