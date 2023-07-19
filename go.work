@@ -16,4 +16,10 @@ use (
 ./plunger
 ./ecrivain
 ./voyage
+
+./barbar
+./go-go-labs
+
+./go-ordered-map
+
 )
