@@ -22,4 +22,7 @@ use (
 
 ./go-ordered-map
 
+./vendor/go-mastodon
+	facture
+
 )
