@@ -2,14 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/barbar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/biberon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bucheron" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/clay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cliopatra" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ecrivain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/escuse-me" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facture" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/geppetto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/glazed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-go-labs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-ordered-map" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/harkonnen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oak" vcs="Git" />

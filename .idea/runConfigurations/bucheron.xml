@@ -3,6 +3,7 @@
     <module name="corporate-headquarters" />
     <working_directory value="$PROJECT_DIR$/bucheron" />
     <kind value="DIRECTORY" />
+    <package value="github.com/go-go-golems/bucheron" />
     <directory value="$PROJECT_DIR$/bucheron" />
     <filePath value="$PROJECT_DIR$" />
     <framework value="gotest" />

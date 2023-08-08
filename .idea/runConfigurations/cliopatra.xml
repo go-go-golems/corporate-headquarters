@@ -3,6 +3,7 @@
     <module name="corporate-headquarters" />
     <working_directory value="$PROJECT_DIR$/cliopatra" />
     <kind value="DIRECTORY" />
+    <package value="github.com/go-go-golems/cliopatra" />
     <directory value="$PROJECT_DIR$/cliopatra" />
     <filePath value="$PROJECT_DIR$" />
     <framework value="gotest" />

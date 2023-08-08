@@ -3,6 +3,7 @@
     <module name="corporate-headquarters" />
     <working_directory value="$PROJECT_DIR$/harkonnen" />
     <kind value="DIRECTORY" />
+    <package value="github.com/go-go-golems/harkonnen" />
     <directory value="$PROJECT_DIR$/harkonnen" />
     <filePath value="$PROJECT_DIR$" />
     <framework value="gotest" />

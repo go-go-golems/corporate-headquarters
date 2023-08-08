@@ -3,6 +3,7 @@
     <module name="corporate-headquarters" />
     <working_directory value="$PROJECT_DIR$/biberon" />
     <kind value="DIRECTORY" />
+    <package value="github.com/go-go-golems/biberon" />
     <directory value="$PROJECT_DIR$/biberon" />
     <filePath value="$PROJECT_DIR$" />
     <framework value="gotest" />

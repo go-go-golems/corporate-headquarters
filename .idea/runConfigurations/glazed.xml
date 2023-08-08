@@ -3,6 +3,7 @@
     <module name="corporate-headquarters" />
     <working_directory value="$PROJECT_DIR$/glazed" />
     <kind value="DIRECTORY" />
+    <package value="github.com/go-go-golems/glazed" />
     <directory value="$PROJECT_DIR$/glazed" />
     <filePath value="$PROJECT_DIR$" />
     <framework value="gotest" />

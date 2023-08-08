@@ -3,6 +3,7 @@
     <module name="corporate-headquarters" />
     <working_directory value="$PROJECT_DIR$/ecrivain" />
     <kind value="DIRECTORY" />
+    <package value="github.com/go-go-golems/ecrivain" />
     <directory value="$PROJECT_DIR$/ecrivain" />
     <filePath value="$PROJECT_DIR$" />
     <framework value="gotest" />
