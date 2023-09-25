@@ -7,6 +7,7 @@
     <mapping directory="$PROJECT_DIR$/bucheron" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/clay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cliopatra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common-sense" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ecrivain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/escuse-me" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/facture" vcs="Git" />
@@ -15,9 +16,12 @@
     <mapping directory="$PROJECT_DIR$/go-go-labs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-ordered-map" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/harkonnen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mastoid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oak" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/parka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plunger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prompto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prompts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
