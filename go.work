@@ -23,6 +23,10 @@ use (
 ./go-ordered-map
 
 ./vendor/go-mastodon
-	facture
+	./facture
+	./prompto
+	./mastoid
+	./common-sense
+
 
 )
