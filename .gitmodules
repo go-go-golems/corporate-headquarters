@@ -46,3 +46,18 @@
 [submodule "vendor/go-mastodon"]
 	path = vendor/go-mastodon
 	url = git@github.com:mattn/go-mastodon
+[submodule "go-go-labs"]
+	path = go-go-labs
+	url = git@github.com:go-go-golems/go-go-labs
+[submodule "common-sense"]
+	path = common-sense
+	url = git@github.com:go-go-golems/common-sense
+[submodule "barbar"]
+	path = barbar
+	url = git@github.com:go-go-golems/barbar
+[submodule "mastoid"]
+	path = mastoid
+	url = git@github.com:go-go-golems/mastoid
+[submodule "prompto"]
+	path = prompto
+	url = git@github.com:go-go-golems/prompto
