@@ -23,6 +23,7 @@
     <mapping directory="$PROJECT_DIR$/prompto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prompts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/site" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
   </component>
