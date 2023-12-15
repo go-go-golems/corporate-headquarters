@@ -61,3 +61,6 @@
 [submodule "prompto"]
 	path = prompto
 	url = git@github.com:go-go-golems/prompto
+[submodule "promptos/prompto"]
+	path = promptos/prompto
+	url = git@github.com:go-go-golems/promptos
