@@ -14,7 +14,6 @@
     <mapping directory="$PROJECT_DIR$/geppetto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/glazed" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-labs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/go-ordered-map" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/harkonnen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mastoid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oak" vcs="Git" />
@@ -25,7 +24,6 @@
     <mapping directory="$PROJECT_DIR$/promptos/jennifer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/promptos/prompto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/promptos/tiktoken-go/tokenizer" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/prompts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/site" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
