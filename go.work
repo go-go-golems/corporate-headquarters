@@ -1,32 +1,31 @@
-go 1.20
+go 1.21
 
 use (
-   
-./glazed
-./clay
-./sqleton
-./escuse-me
-./parka
-./geppetto
-./cliopatra
-./harkonnen
-./biberon
-./bucheron
-./oak
-./plunger
-./ecrivain
-./voyage
-
-./barbar
-./go-go-labs
-
-./go-ordered-map
-
-./vendor/go-mastodon
-	./facture
-	./prompto
-	./mastoid
+	./barbar
+	./biberon
+	./bucheron
+	./clay
+	./cliopatra
 	./common-sense
+	./ecrivain
+	./escuse-me
+	./facture
+	./geppetto
+	./glazed
+	./go-go-labs
 
+	./go-ordered-map
+	./harkonnen
+	./mastoid
+	./oak
+	./parka
+	./plunger
+	./prompto
+	./sqleton
 
+	./thirdparty/bubbles
+	./vendor/bubbletea
+
+	./vendor/go-mastodon
+	./voyage
 )
