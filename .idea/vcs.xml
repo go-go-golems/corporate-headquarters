@@ -21,10 +21,15 @@
     <mapping directory="$PROJECT_DIR$/parka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plunger" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prompto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promptos/go-plugin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promptos/jennifer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promptos/prompto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promptos/tiktoken-go/tokenizer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prompts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/site" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
   </component>
 </project>

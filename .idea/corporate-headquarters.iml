@@ -8,7 +8,11 @@
   <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/promptos/tiktoken-go" />
+      <excludeFolder url="file://$MODULE_DIR$/promptos/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/site/hugo/public" />
+      <excludeFolder url="file://$MODULE_DIR$/promptos/charmbracelet" />
+      <excludeFolder url="file://$MODULE_DIR$/promptos/go-plugin" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
