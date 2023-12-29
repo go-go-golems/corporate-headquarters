@@ -3,6 +3,9 @@
     <option name="myName" value="Project Default" />
     <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="GoDeprecation" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+    <inspection_tool class="GoDfaConstantCondition" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="GoDfaErrorMayBeNotNil" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="GoDfaNilDereference" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="GoUnhandledErrorResult" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
   </profile>
 </component>

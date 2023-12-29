@@ -13,6 +13,7 @@
       <excludeFolder url="file://$MODULE_DIR$/site/hugo/public" />
       <excludeFolder url="file://$MODULE_DIR$/promptos/charmbracelet" />
       <excludeFolder url="file://$MODULE_DIR$/promptos/go-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/glazed/.history" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
