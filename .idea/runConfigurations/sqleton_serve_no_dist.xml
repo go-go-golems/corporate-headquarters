@@ -7,6 +7,10 @@
       <env name="SQLETON_USE_DBT_PROFILES" value="1" />
       <env name="SQLETON_DBT_PROFILE" value="ttc.analytics" />
     </envs>
+    <EXTENSION ID="com.fapiko.jetbrains.plugins.better_direnv.runconfigs.GolandRunConfigurationExtension">
+      <option name="DIRENV_ENABLED" value="false" />
+      <option name="DIRENV_TRUSTED" value="false" />
+    </EXTENSION>
     <kind value="PACKAGE" />
     <package value="github.com/go-go-golems/sqleton/cmd/sqleton" />
     <directory value="$PROJECT_DIR$" />

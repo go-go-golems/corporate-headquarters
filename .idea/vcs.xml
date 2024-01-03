@@ -4,6 +4,8 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/barbar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/biberon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bobatea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bobatea.old" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bucheron" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/clay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cliopatra" vcs="Git" />
