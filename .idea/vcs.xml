@@ -5,7 +5,6 @@
     <mapping directory="$PROJECT_DIR$/barbar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/biberon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bobatea" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bobatea.old" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bucheron" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/clay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cliopatra" vcs="Git" />
@@ -22,14 +21,10 @@
     <mapping directory="$PROJECT_DIR$/parka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plunger" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prompto" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/promptos/go-plugin" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/promptos/jennifer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/promptos/prompto" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/promptos/tiktoken-go/tokenizer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/site" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/go-mastodon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
   </component>
 </project>
