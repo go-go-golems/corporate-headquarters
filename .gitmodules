@@ -43,9 +43,6 @@
 [submodule "voyage"]
 	path = voyage
 	url = git@github.com:go-go-golems/voyage
-[submodule "vendor/go-mastodon"]
-	path = vendor/go-mastodon
-	url = git@github.com:mattn/go-mastodon
 [submodule "go-go-labs"]
 	path = go-go-labs
 	url = git@github.com:go-go-golems/go-go-labs
@@ -67,3 +64,6 @@
 [submodule "bobatea"]
 	path = bobatea
 	url = git@github.com:go-go-golems/bobatea
+[submodule "oak"]
+	path = oak
+	url = git@github.com:go-go-golems/oak

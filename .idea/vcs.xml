@@ -25,7 +25,8 @@
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/vendor/go-mastodon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor.old/bubbletea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor.old/go-mastodon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
   </component>
 </project>
