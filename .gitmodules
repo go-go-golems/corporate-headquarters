@@ -64,6 +64,3 @@
 [submodule "bobatea"]
 	path = bobatea
 	url = git@github.com:go-go-golems/bobatea
-[submodule "oak"]
-	path = oak
-	url = git@github.com:go-go-golems/oak
