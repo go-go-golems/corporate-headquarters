@@ -3,6 +3,7 @@ go 1.21
 use (
 	./barbar
 	./biberon
+	./bobatea
 	./bucheron
 	./clay
 	./cliopatra
@@ -13,7 +14,6 @@ use (
 	./geppetto
 	./glazed
 	./go-go-labs
-	./bobatea
 
 	./harkonnen
 	./mastoid
