@@ -24,6 +24,7 @@
     <mapping directory="$PROJECT_DIR$/promptos/prompto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/go-mastodon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
   </component>

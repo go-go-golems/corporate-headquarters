@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoLinterSettings">
+    <option name="concurrency" value="7" />
+    <option name="customConfigFile" value="$PROJECT_DIR$/glazed/.golangci.yml" />
+    <option name="enabledLinters">
+      <list>
+        <option value="ineffassign" />
+        <option value="predeclared" />
+        <option value="staticcheck" />
+        <option value="govet" />
+        <option value="nonamedreturns" />
+        <option value="exhaustive" />
+        <option value="errcheck" />
+        <option value="gofmt" />
+        <option value="unused" />
+        <option value="gosimple" />
+      </list>
+    </option>
+    <option name="goLinterExe" value="$USER_HOME$/.local/bin/golangci-lint" />
+    <option name="linterSelected" value="true" />
+  </component>
+</project>
