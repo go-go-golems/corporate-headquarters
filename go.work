@@ -23,9 +23,5 @@ use (
 	./prompto
 	./sqleton
 
-	./thirdparty/bubbles
-	./vendor/bubbletea
-
-	./vendor/go-mastodon
 	./voyage
 )
