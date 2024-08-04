@@ -28,9 +28,11 @@
       <excludeFolder url="file://$MODULE_DIR$/promptos/sqlite-vss" />
       <excludeFolder url="file://$MODULE_DIR$/raza" />
       <excludeFolder url="file://$MODULE_DIR$/voyage" />
+      <excludeFolder url="file://$MODULE_DIR$/.history" />
       <excludeFolder url="file://$MODULE_DIR$/go-go-labs/.history" />
       <excludeFolder url="file://$MODULE_DIR$/go-go-labs/.yardoc" />
       <excludeFolder url="file://$MODULE_DIR$/go-go-labs/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/uhoh/dist" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
