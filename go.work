@@ -1,27 +1,32 @@
-go 1.21
+go 1.22.2
 
 use (
-	./barbar
-	./biberon
 	./bobatea
-	./bucheron
 	./clay
 	./cliopatra
-	./common-sense
-	./ecrivain
 	./escuse-me
 	./facture
 	./geppetto
 	./glazed
+	// ./mastoid
+	// ./plunger
+	// ./voyage
+
+	./go-emrichen
 	./go-go-labs
 
+	// ./barbar
+	// ./biberon
+	// ./common-sense
+	// ./ecrivain
+	// ./bucheron
 	./harkonnen
-	./mastoid
+
 	./oak
 	./parka
-	./plunger
 	./prompto
 	./sqleton
 
-	./voyage
+	./thirdparty/go-socket.io
+	./uhoh
 )

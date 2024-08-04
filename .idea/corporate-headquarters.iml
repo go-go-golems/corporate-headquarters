@@ -15,6 +15,22 @@
       <excludeFolder url="file://$MODULE_DIR$/promptos/go-plugin" />
       <excludeFolder url="file://$MODULE_DIR$/glazed/.history" />
       <excludeFolder url="file://$MODULE_DIR$/parka/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/barbar" />
+      <excludeFolder url="file://$MODULE_DIR$/biberon" />
+      <excludeFolder url="file://$MODULE_DIR$/bucheron" />
+      <excludeFolder url="file://$MODULE_DIR$/cliopatra" />
+      <excludeFolder url="file://$MODULE_DIR$/common-sense" />
+      <excludeFolder url="file://$MODULE_DIR$/ecrivain" />
+      <excludeFolder url="file://$MODULE_DIR$/go-go-labs-prev" />
+      <excludeFolder url="file://$MODULE_DIR$/mastoid" />
+      <excludeFolder url="file://$MODULE_DIR$/plunger" />
+      <excludeFolder url="file://$MODULE_DIR$/promptos/jennifer" />
+      <excludeFolder url="file://$MODULE_DIR$/promptos/sqlite-vss" />
+      <excludeFolder url="file://$MODULE_DIR$/raza" />
+      <excludeFolder url="file://$MODULE_DIR$/voyage" />
+      <excludeFolder url="file://$MODULE_DIR$/go-go-labs/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/go-go-labs/.yardoc" />
+      <excludeFolder url="file://$MODULE_DIR$/go-go-labs/dist" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
