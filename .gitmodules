@@ -64,3 +64,9 @@
 [submodule "bobatea"]
 	path = bobatea
 	url = git@github.com:go-go-golems/bobatea
+[submodule "uhoh"]
+	path = uhoh
+	url = git@github.com:go-go-golems/uhoh
+[submodule "go-template"]
+	path = go-template
+	url = git@github.com:wesen/wesen-go-template
