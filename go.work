@@ -27,7 +27,7 @@ use (
 	./prompto
 	./sqleton
 
-	./thirdparty/go-socket.io
+	// ./thirdparty/go-socket.io
 	./uhoh
 
 	./thirdparty/bubble-table

@@ -52,6 +52,7 @@
 [submodule "barbar"]
 	path = barbar
 	url = git@github.com:go-go-golems/barbar
+	branch = main
 [submodule "mastoid"]
 	path = mastoid
 	url = git@github.com:go-go-golems/mastoid
@@ -70,9 +71,9 @@
 [submodule "go-template"]
 	path = go-template
 	url = git@github.com:wesen/wesen-go-template
-[submodule "submodule.glazed"]
-	branch = main
-[submodule "submodule.clay"]
+[submodule "go-emrichen"]
+	path = go-emrichen
+	url = git@github.com:go-go-golems/go-emrichen
 	branch = main
 [submodule "submodule.sqleton"]
 	branch = main
@@ -117,6 +118,8 @@
 [submodule "submodule.uhoh"]
 	branch = main
 [submodule "submodule.go-template"]
+	branch = main
+[submodule "submodule.go-emrichen"]
 	branch = main
 [submodule "thirdparty/bubble-table"]
 	path = thirdparty/bubble-table
