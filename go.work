@@ -29,4 +29,6 @@ use (
 
 	./thirdparty/go-socket.io
 	./uhoh
+
+	./thirdparty/bubble-table
 )

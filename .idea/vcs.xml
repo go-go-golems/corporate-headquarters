@@ -17,6 +17,7 @@
     <mapping directory="$PROJECT_DIR$/go-emrichen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-labs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-workshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/harkonnen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mastoid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oak" vcs="Git" />
@@ -28,6 +29,7 @@
     <mapping directory="$PROJECT_DIR$/promptos/sqlite-vss" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bubble-table" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-1password-cli" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-socket.io" vcs="Git" />

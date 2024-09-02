@@ -70,3 +70,51 @@
 [submodule "go-template"]
 	path = go-template
 	url = git@github.com:wesen/wesen-go-template
+[submodule "submodule.glazed"]
+	branch = main
+[submodule "submodule.clay"]
+	branch = main
+[submodule "submodule.sqleton"]
+	branch = main
+[submodule "submodule.escuse-me"]
+	branch = main
+[submodule "submodule.parka"]
+	branch = main
+[submodule "submodule.geppetto"]
+	branch = main
+[submodule "submodule.cliopatra"]
+	branch = main
+[submodule "submodule.harkonnen"]
+	branch = main
+[submodule "submodule.biberon"]
+	branch = main
+[submodule "submodule.bucheron"]
+	branch = main
+[submodule "submodule.oak"]
+	branch = main
+[submodule "submodule.plunger"]
+	branch = main
+[submodule "submodule.ecrivain"]
+	branch = main
+[submodule "submodule.raza"]
+	branch = main
+[submodule "submodule.voyage"]
+	branch = main
+[submodule "submodule.go-go-labs"]
+	branch = main
+[submodule "submodule.common-sense"]
+	branch = main
+[submodule "submodule.barbar"]
+	branch = main
+[submodule "submodule.mastoid"]
+	branch = main
+[submodule "submodule.prompto"]
+	branch = main
+[submodule "submodule.promptos/prompto"]
+	branch = main
+[submodule "submodule.bobatea"]
+	branch = main
+[submodule "submodule.uhoh"]
+	branch = main
+[submodule "submodule.go-template"]
+	branch = main
