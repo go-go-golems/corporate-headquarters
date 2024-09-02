@@ -118,3 +118,7 @@
 	branch = main
 [submodule "submodule.go-template"]
 	branch = main
+[submodule "thirdparty/bubble-table"]
+	path = thirdparty/bubble-table
+	url = git@github.com:go-go-golems/bubble-table
+	branch = main
