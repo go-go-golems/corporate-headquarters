@@ -124,4 +124,4 @@
 [submodule "thirdparty/bubble-table"]
 	path = thirdparty/bubble-table
 	url = git@github.com:go-go-golems/bubble-table
-	branch = main
+	branch = minor/bump-go-version-for-generics
