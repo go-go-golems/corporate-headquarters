@@ -33,6 +33,7 @@
     <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-1password-cli" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-socket.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/gopher-lua" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/uhoh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
   </component>
