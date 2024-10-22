@@ -31,4 +31,6 @@ use (
 	./uhoh
 
 	./thirdparty/bubble-table
+
+	./pinocchio
 )
