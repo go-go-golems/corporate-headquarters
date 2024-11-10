@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "raza/**": true,
+        "voyage/**": true,
+        "mastoid/**": true,
+        "harkonnen/**": true,
+        "plunger/**": true,
+        "facture/**": true,
+        "cliopatra/**": true,
+        "ecrivain/**": true,
+        "bucheron/**": true,
+        "barbar/**": true,
+        "biberon/**": true,
+        "common-sense/**": true,
+        "go-go-labs-prev/**": true
+    }
+}
