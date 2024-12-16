@@ -1,6 +1,9 @@
-go 1.22.2
+go 1.23
+
+toolchain go1.23.2
 
 use (
+	../../mento/go-go-mento/go
 	./bobatea
 	./clay
 	./cliopatra
@@ -20,17 +23,18 @@ use (
 	// ./common-sense
 	// ./ecrivain
 	// ./bucheron
-	./harkonnen
+	// ./harkonnen
 
 	./oak
 	./parka
+	./pinocchio
 	./prompto
 	./sqleton
+	./thirdparty/bleve
+	./thirdparty/go-faiss
+
+	// ./thirdparty/bubble-table
 
 	// ./thirdparty/go-socket.io
 	./uhoh
-
-	./thirdparty/bubble-table
-
-	./pinocchio
 )

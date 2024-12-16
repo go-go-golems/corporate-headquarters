@@ -128,3 +128,9 @@
 [submodule "pinocchio"]
 	path = pinocchio
 	url = git@github.com:go-go-golems/pinocchio
+[submodule "promptos/go-gitignore"]
+	path = promptos/go-gitignore
+	url = https://github.com/denormal/go-gitignore
+[submodule "go-go-mcp"]
+	path = go-go-mcp
+	url = git@github.com:go-go-golems/go-go-mcp
