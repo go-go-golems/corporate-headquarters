@@ -34,9 +34,13 @@
       <excludeFolder url="file://$MODULE_DIR$/go-go-labs/dist" />
       <excludeFolder url="file://$MODULE_DIR$/uhoh/dist" />
       <excludeFolder url="file://$MODULE_DIR$/prompto/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/geppetto/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/pinocchio/.history" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Python 3.11 interpreter library" level="application" />
+    <orderEntry type="module" module-name="go" />
+    <orderEntry type="module" module-name="textract-banking" />
   </component>
 </module>

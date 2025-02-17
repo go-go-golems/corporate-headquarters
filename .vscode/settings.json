@@ -5,7 +5,7 @@
         "mastoid/**": true,
         "harkonnen/**": true,
         "plunger/**": true,
-        "facture/**": true,
+        "facture/**": false,
         "cliopatra/**": true,
         "ecrivain/**": true,
         "bucheron/**": true,

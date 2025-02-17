@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/corporate-headquarters.iml" filepath="$PROJECT_DIR$/.idea/corporate-headquarters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mento/go-go-mento/go/.idea/go.iml" filepath="$PROJECT_DIR$/../../mento/go-go-mento/go/.idea/go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wesen-misc/go/textract-banking/.idea/textract-banking.iml" filepath="$PROJECT_DIR$/../wesen-misc/go/textract-banking/.idea/textract-banking.iml" />
     </modules>
   </component>
 </project>

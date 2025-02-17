@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../mento/go-go-mento" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../mento/go-go-mento/go/thirdparty/geppetto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/barbar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/biberon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bobatea" vcs="Git" />
@@ -12,29 +14,37 @@
     <mapping directory="$PROJECT_DIR$/ecrivain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/escuse-me" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/facture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/film-developer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/geppetto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/glazed" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-emrichen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-labs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-go-mcp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-workshop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/harkonnen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mastoid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/oak" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/parka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pinocchio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plunger" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prompto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promptos/go-gitignore" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/promptos/jennifer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/promptos/prompto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/promptos/sqlite-vss" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/raza" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bleve" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bubble-table" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-1password-cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/go-faiss" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-socket.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/goja" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/gopher-lua" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/uhoh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../wesen-misc" vcs="Git" />
   </component>
 </project>

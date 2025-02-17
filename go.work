@@ -3,7 +3,7 @@ go 1.23
 toolchain go1.23.2
 
 use (
-	../../mento/go-go-mento/go
+	// ../../mento/go-go-mento/go
 	./bobatea
 	./clay
 	./cliopatra
@@ -17,6 +17,7 @@ use (
 
 	./go-emrichen
 	./go-go-labs
+	./go-go-mcp
 
 	// ./barbar
 	// ./biberon
