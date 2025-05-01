@@ -17,7 +17,6 @@
         <option value="gosimple" />
       </list>
     </option>
-    <option name="goLinterExe" value="$USER_HOME$/go/bin/golangci-lint" />
     <option name="linterSelected" value="true" />
   </component>
 </project>

@@ -134,3 +134,6 @@
 [submodule "go-go-mcp"]
 	path = go-go-mcp
 	url = git@github.com:go-go-golems/go-go-mcp
+[submodule "vibes"]
+	path = vibes
+	url = git@github.com:go-go-golems/vibes
