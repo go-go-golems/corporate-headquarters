@@ -1,6 +1,4 @@
-go 1.24.2
-
-toolchain go1.24.2
+go 1.24.3
 
 use (
 	// ../../mento/go-go-mento/go
@@ -16,24 +14,26 @@ use (
 	// ./voyage
 
 	./go-emrichen
+	./go-go-agent
 	./go-go-labs
 	./go-go-mcp
+	./jesus
 
 	// ./barbar
 	// ./biberon
 	// ./common-sense
 	// ./ecrivain
 	// ./bucheron
-	./harkonnen
+	//	./harkonnen
 
 	./oak
 	./parka
 	./pinocchio
 	./prompto
-	./smailnail
+	//	./smailnail
 	./sqleton
-	// ./thirdparty/bleve
-	// ./thirdparty/go-faiss
+	//	./thirdparty/bleve
+	//	./thirdparty/bleve/thirdparty/go-faiss
 
 	// ./thirdparty/bubble-table
 
@@ -43,6 +43,7 @@ use (
 	// ./thirdparty/glamour
 	// ./thirdparty/termenv
 	./uhoh
-	./vibes/2025-04-21/llm-agent-complete/llm-agent-framework
-	./vibes/2025-04-28/kafka-watermill/kafka-watermill-project
+	./workspace-manager
+// ./vibes/2025-04-21/llm-agent-complete/llm-agent-framework
+// ./vibes/2025-04-28/kafka-watermill/kafka-watermill-project
 )
