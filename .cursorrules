@@ -1,0 +1,19 @@
+# Go guidelines
+
+The base package of all the subpackages here is github.com/go-go-golems .
+So code in glazed/ is in github.com/go-go-golems/glazed
+
+When working on rag-to-riches, the package is
+github.com/team-mento/mento-playground/go/cmd/rag-to-riches. Otherwise
+github.com/go-go-golems is the base for everything in corporate-headquarters/
+
+Use cobra for CLI applications. Use context always when async is involved.
+
+Always handle error results, using _ only for very general functions like Read or Close.
+Use os.ReadFile ,io.ReadALl and others instead of deprecated ioutil methods.
+
+# Writing guidelines
+
+When writing about software, never use the words "powerful" or "flexible" or "simple" or "easy".
+
+
