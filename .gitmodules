@@ -137,3 +137,12 @@
 [submodule "vibes"]
 	path = vibes
 	url = git@github.com:go-go-golems/vibes
+[submodule "go-go-agent"]
+	path = go-go-agent
+	url = git@github.com:go-go-golems/go-go-agent
+[submodule "workspace-manager"]
+	path = workspace-manager
+	url = git@github.com:go-go-golems/workspace-manager
+[submodule "jesus"]
+	path = jesus
+	url = git@github.com:go-go-golems/jesus
