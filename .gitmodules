@@ -146,3 +146,6 @@
 [submodule "jesus"]
 	path = jesus
 	url = git@github.com:go-go-golems/jesus
+[submodule "go-go-goja"]
+	path = go-go-goja
+	url = git@github.com:go-go-golems/go-go-goja

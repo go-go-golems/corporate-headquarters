@@ -23,6 +23,7 @@
     <mapping directory="$PROJECT_DIR$/geppetto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/glazed" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-emrichen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-go-agent" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-labs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-mcp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/go-go-workshop" vcs="Git" />
@@ -42,9 +43,16 @@
     <mapping directory="$PROJECT_DIR$/smailnail" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sqleton" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bleve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bleve/thirdparty/faiss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bleve/thirdparty/faiss/build/_deps/googlebenchmark-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bleve/thirdparty/faiss/build/_deps/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/bleve/thirdparty/go-faiss" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bubble-table" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bubbles" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/bubbletea-overlay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/faiss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/faiss/build/_deps/googlebenchmark-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/faiss/build/_deps/googletest-src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/glamour" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-1password-cli" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/go-faiss" vcs="Git" />
@@ -58,6 +66,7 @@
     <mapping directory="$PROJECT_DIR$/uhoh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vibes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/voyage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace-manager" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../wesen-misc" vcs="Git" />
   </component>
 </project>

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "go-go-labs"
+		},
+		{
+			"path": "geppetto"
+		},
+		{
+			"path": "../../mento/go-go-mento/go"
+		},
+		{
+			"path": "glazed"
+		}
+	],
+	"settings": {}
+}

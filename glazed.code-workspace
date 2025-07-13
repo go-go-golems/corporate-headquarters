@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "glazed"
+		},
+		{
+			"path": "thirdparty/bubble-table"
+		},
+		{
+			"path": "prompto"
+		}
+	],
+	"settings": {}
+}

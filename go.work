@@ -1,4 +1,4 @@
-go 1.24.3
+go 1.24.5
 
 use (
 	// ../../mento/go-go-mento/go
@@ -43,7 +43,16 @@ use (
 	// ./thirdparty/glamour
 	// ./thirdparty/termenv
 	./uhoh
+	./vibes/2025-06-15/goja-repl
+	// ./vibes/2025-06-22/conversation-manager/02-conversation-manager-snapshot
+	./vibes/2025-06-22/conversation-manager/03-conversation-manager-enhanced
+	./vibes/2025-07-06/dotvote-ssh
+	./vibes/2025-07-06/go-youtube-analyzer
+	./vibes/2025-07-07/drone-workflow-platform
+	./vibes/2025-07-08/command-palette
+	./vibes/2025-07-10/i3-project-essentials/i3-window-manager
+	./vibes/2025-07-12/taskplanner
+	./vibes/2025-07-12/test-agentbus-project
+	// ./vibes/2025-07-06/go-youtube-analyzer-orig
 	./workspace-manager
-// ./vibes/2025-04-21/llm-agent-complete/llm-agent-framework
-// ./vibes/2025-04-28/kafka-watermill/kafka-watermill-project
 )

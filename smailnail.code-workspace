@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "smailnail"
+		},
+		{
+			"path": "glazed"
+		},
+		{
+			"path": "thirdparty/go-imap"
+		},
+		{
+			"path": "../../others/docker-test-dovecot"
+		},
+		{
+			"path": "thirdparty/go-message"
+		},
+		{
+			"path": "go-go-mcp"
+		},
+		{
+			"path": "pinocchio"
+		},
+		{
+			"path": "clay"
+		}
+	],
+	"settings": {}
+}

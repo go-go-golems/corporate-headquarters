@@ -1,0 +1,14 @@
+title: 📚 Update IMPLEMENTATION.md to reflect new project structure
+description: |
+  Updated comprehensive implementation documentation to match reorganized codebase structure:
+  
+  - Changed main.go location from root to cmd/workspace-manager/main.go
+  - Updated command files location from cmd/ to cmd/cmds/
+  - Updated core logic imports from cmd package to pkg/wsm package
+  - Fixed all file path references throughout the document
+  - Added package separation benefits and architecture advantages
+  - Updated code examples to show new import paths (wsm.NewWorkspaceManager())
+  - Added notes about TUI location in cmd/cmds/tui.go
+  - Updated development setup commands to use new build path
+  
+  The document now accurately reflects the clean separation between CLI interface (cmd/) and business logic (pkg/wsm/), maintaining all technical detail while fixing structural references.

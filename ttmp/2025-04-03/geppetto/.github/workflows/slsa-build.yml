@@ -1,0 +1,29 @@
+# .github/workflows/slsa-build.yml
+name: SLSA Go Build
+
+on:
+  push:
+    branches: [ main ]
+    tags: [ 'v*' ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: SLSA Build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+      actions: read
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      # For a real implementation, use the SLSA generator
+      - name: SLSA Provenance Generator
+        uses: slsa-framework/slsa-github-generator/.github/workflows/generator_go_slsa3.yml@v1.4.0
+        with:
+          go-version: '1.21'
+          artifact-path: ./bin/

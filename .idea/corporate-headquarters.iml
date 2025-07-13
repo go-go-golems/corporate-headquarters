@@ -37,6 +37,8 @@
       <excludeFolder url="file://$MODULE_DIR$/geppetto/.history" />
       <excludeFolder url="file://$MODULE_DIR$/pinocchio/.history" />
       <excludeFolder url="file://$MODULE_DIR$/sqleton/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/go-go-mcp/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/go-go-mcp/.specstory" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

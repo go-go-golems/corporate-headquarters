@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../mento/go-go-mento/go"
+		}
+	],
+	"settings": {}
+}
