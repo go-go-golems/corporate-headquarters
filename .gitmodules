@@ -149,3 +149,51 @@
 [submodule "go-go-goja"]
 	path = go-go-goja
 	url = git@github.com:go-go-golems/go-go-goja
+[submodule "docmgr"]
+	path = docmgr
+	url = git@github.com:go-go-golems/docmgr
+[submodule "devctl"]
+	path = devctl
+	url = git@github.com:go-go-golems/devctl
+[submodule "prescribe"]
+	path = prescribe
+	url = git@github.com:go-go-golems/prescribe
+[submodule "tactician"]
+	path = tactician
+	url = git@github.com:go-go-golems/tactician
+[submodule "esp32-s3-m5"]
+	path = esp32-s3-m5
+	url = git@github.com:go-go-golems/esp32-s3-m5
+[submodule "plz-confirm"]
+	path = plz-confirm
+	url = git@github.com:go-go-golems/plz-confirm
+[submodule "salad"]
+	path = salad
+	url = git@github.com:go-go-golems/salad
+[submodule "zine-layout"]
+	path = zine-layout
+	url = git@github.com:go-go-golems/zine-layout
+[submodule "remarquee"]
+	path = remarquee
+	url = git@github.com:go-go-golems/remarquee
+[submodule "openai-mock-server"]
+	path = openai-mock-server
+	url = git@github.com:go-go-golems/openai-mock-server
+[submodule "go-go-agent-action"]
+	path = go-go-agent-action
+	url = git@github.com:go-go-golems/go-go-agent-action
+[submodule "form-generator"]
+	path = form-generator
+	url = git@github.com:go-go-golems/form-generator
+[submodule "go-sqlite-regexp"]
+	path = go-sqlite-regexp
+	url = git@github.com:go-go-golems/go-sqlite-regexp
+[submodule "film-developer"]
+	path = film-developer
+	url = git@github.com:go-go-golems/film-developer
+[submodule "vault-envrc-generator"]
+	path = vault-envrc-generator
+	url = git@github.com:go-go-golems/vault-envrc-generator
+[submodule "smailnail"]
+	path = smailnail
+	url = git@github.com:go-go-golems/smailnail
